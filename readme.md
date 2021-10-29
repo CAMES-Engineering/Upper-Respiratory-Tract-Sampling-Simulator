@@ -5,4 +5,5 @@ There is a published paper by Todsen et al, describing the validation of the tes
 
 STL files are found in the **Share** folder.
 
-Any code available in this repository is shared under the MIT License. Intellectual works, such as digital models, are shared under Creative Commons (CC BY 4).
+Any code available in this repository is shared under the MIT License.   
+Intellectual works, such as digital models, are shared under Creative Commons (CC BY 4).
